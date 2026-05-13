@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Frankk Antonio 👋</h1>
 
 <p align="center">
-  <em>Desenvolvedor em formação · Backend, Full Stack & Automação · Disponível para trabalhos freelance</em>
+  <em>Desenvolvedor em formação · Backend & Automação · Disponível para trabalhos freelance</em>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## Contato
 
 <p align="center">
-  Aberto a trabalhos como <strong>freelancer</strong> em Backend, Full Stack e automação.
+  Aberto a trabalhos como <strong>freelancer</strong> em Backend e automação.
 </p>
 
 <p align="center">
